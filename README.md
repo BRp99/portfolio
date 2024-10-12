@@ -1,8 +1,9 @@
-# React + Vite
+# Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Frontend Developer portfolio, built using tthe following technologies: **Vite**, **Tailwind CSS**, **Three.js**, with a focus on **responsiveness** to ensure an optimal user experience across various devices.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **3D animations**: Leveraging **Three.js** to create interactive 3D elements for a more dynamic portfolio;
+- **modular structure**: Built with **Vite** for a fast and optimized development environment, along with ESModules support;
+- **style with Tailwind**: The entire page is styled using **Tailwind CSS**, making customization and responsiveness easier.

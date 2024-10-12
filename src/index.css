@@ -34,7 +34,7 @@
 .lilac-gradient {
   background: #afa7d7; /* Lilás claro */
   background: linear-gradient(-90deg, #afa7d7 0%, rgba(60, 51, 80, 0) 100%); /* Gradiente */
-  background: -webkit-linear-gradient(-90deg, #afa7d7 0%, rgba(60, 51, 80, 0) 100%); /* Compatibilidade com WebKit */
+  background: -webkit-linear-gradient(-90deg, #afa7d7 0%, rgba(60, 51, 80, 0) 100%); /* Compatbl with WebKit */
 }
 
 /* origin */

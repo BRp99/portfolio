@@ -166,26 +166,26 @@ const experiences = [
 ]
 
 const projects = [
-  {
-    name: "My old portfolio",
-    description: "This portfolio was the result of my journey during 2023, a testimony of my learning, improvement and passion for development.",
-    tags: [
-      {
-        name: "React",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "CSS3",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: oldPortfolio, //change
-    source_code_link: "https://github.com/BRp99/BRp99.github.io",
-  },
+  // {
+  //   name: "My old portfolio",
+  //   description: "This portfolio was the result of my journey during 2023, a testimony of my learning, improvement and passion for development.",
+  //   tags: [
+  //     {
+  //       name: "React",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Typescript",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "CSS3",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: oldPortfolio, //change
+  //   source_code_link: "https://github.com/BRp99/BRp99.github.io",
+  // },
   // {
   //   name: "This portfolio",
   //   description: "Bla Bla Bla.",

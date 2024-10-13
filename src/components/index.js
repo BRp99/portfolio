@@ -4,7 +4,6 @@ import Navbar from "./NavBar"
 import About from "./About"
 import Tech from "./Tech"
 import Experience from "./Experience"
-import Works from "./Works"
 import Contact from "./Contact"
 
-export { Hero, Navbar, About, Tech, Experience, Works, Contact, StarsCanvas }
+export { Hero, Navbar, About, Tech, Experience, Contact, StarsCanvas }
